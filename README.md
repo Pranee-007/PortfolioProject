@@ -76,4 +76,4 @@ The dataset comprises 11 attributes:
 - [Tableau Public](https://public.tableau.com/app/profile/praneeth.kumar.maddula/viz/InsuranceCostPrediction/Dashboard1)
 - [GitHub repository](https://github.com/Pranee-007/PortfolioProject)
 - [Technical Blog](https://medium.com/@praneethkumar_88970/insurance-cost-prediction-using-machine-learning-0b7b27b0c21c)
-- Demo Video: [Link to be added]
+- [Demo Video](https://www.loom.com/looms/videos)
